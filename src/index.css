@@ -7,3 +7,10 @@
   background-image: url("/mole.png");
 }
 
+.board{
+  justify-self: center;
+  width: 45vw;
+  justify-items: center;
+  display: flex;
+  flex-wrap: wrap;
+}
